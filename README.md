@@ -6,5 +6,5 @@ My Hackintosh build files
 - GPU : GTX 1060 3G
 - Motherboard : Gigabyte H310M H
 
-Used Vanilla Mac OS (High Sierra) 
+## [Reference](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites)
 
